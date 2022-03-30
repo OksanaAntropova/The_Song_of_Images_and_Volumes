@@ -1,0 +1,6 @@
+Adding the hero Oksana of Starks side. Born 26.7.1986 after Aegon's Conquest.
+Adding a new motto for the hero with id 7.
+Adding the story of the hero with id 7.
+Adding a new combat of 2 heroes from opposing sides.
+Deleting Bran.
+Adding the hero Oksana of Starks side. Born 12.8.1926 after Aegon's Conquest.

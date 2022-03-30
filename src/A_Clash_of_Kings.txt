@@ -1,0 +1,11 @@
+The hero with id 2 attacked the hero with id 6. Result: 2
+The hero with id 1 attacked the hero with id 4. Result: 1
+The hero with id 3 attacked the hero with id 7. Result: 1
+The hero with id 3 attacked the hero with id 6. Result: 1
+The hero with id 2 attacked the hero with id 6. Result: 2
+The hero with id 3 attacked the hero with id 5. Result: 2
+The hero with id 2 attacked the hero with id 5. Result: 1
+The hero with id 2 attacked the hero with id 4. Result: 1
+The hero with id 1 attacked the hero with id 6. Result: 2
+The hero with id 2 attacked the hero with id 4. Result: 1
+The hero with id 2 attacked the hero with id 6. Result: 1

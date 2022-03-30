@@ -1,0 +1,30 @@
+version: '2'
+services:
+  python:
+    container_name: my_python
+    build:
+      context: ./src
+      dockerfile: Dockerfile
+    volumes:
+      - ./src/:/usr/src/app/
+    ports:
+      - 5000:5000
+    env_file:
+      - .env.prod
+    depends_on:
+      - postgres
+  postgres:
+    container_name: postgres
+    image: 'bitnami/postgresql:12'
+    ports:
+      - '5432:5432'
+    volumes:
+      - 'postgres_data:/bitnami/postgresql12'
+    environment:
+      - POSTGRESQL_USERNAME=georgerrmartin
+      - POSTGRESQL_PASSWORD=thelastbookiscoming
+      - POSTGRESQL_DATABASE=game_of_thrones_prod
+      - ALLOW_EMPTY_PASSWORD=yes
+volumes:
+  postgres_data:
+    driver: local

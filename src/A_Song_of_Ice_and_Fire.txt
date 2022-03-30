@@ -1,0 +1,348 @@
+2022-03-30 16:53:15,062 root => The table of Mottoes is successfully created
+2022-03-30 16:53:15,065 root => The table of Combats is successfully created
+2022-03-30 16:53:15,067 root => The table of Heroes is successfully created
+2022-03-30 16:53:15,069 root => The table of Stories is successfully created
+2022-03-30 16:57:39,825 root => The table of Mottoes is successfully created
+2022-03-30 16:57:39,829 root => The table of Combats is successfully created
+2022-03-30 16:57:39,831 root => The table of Heroes is successfully created
+2022-03-30 16:57:39,832 root => The table of Stories is successfully created
+2022-03-30 17:10:34,279 root => The table of Mottoes is successfully created
+2022-03-30 17:10:34,283 root => The table of Combats is successfully created
+2022-03-30 17:10:34,285 root => The table of Heroes is successfully created
+2022-03-30 17:10:34,287 root => The table of Stories is successfully created
+2022-03-30 17:14:35,498 root => The table of Mottoes is successfully created
+2022-03-30 17:14:35,502 root => The table of Combats is successfully created
+2022-03-30 17:14:35,505 root => The table of Heroes is successfully created
+2022-03-30 17:14:35,507 root => The table of Stories is successfully created
+2022-03-30 17:16:26,037 root => The table of Mottoes is successfully created
+2022-03-30 17:16:26,040 root => The table of Combats is successfully created
+2022-03-30 17:16:26,042 root => The table of Heroes is successfully created
+2022-03-30 17:16:26,044 root => The table of Stories is successfully created
+2022-03-30 17:19:15,853 root => The table of Mottoes is successfully created
+2022-03-30 17:19:15,859 root => The table of Combats is successfully created
+2022-03-30 17:19:15,862 root => The table of Heroes is successfully created
+2022-03-30 17:19:15,865 root => The table of Stories is successfully created
+2022-03-30 17:20:33,620 root => The table of Mottoes is successfully created
+2022-03-30 17:20:33,624 root => The table of Combats is successfully created
+2022-03-30 17:20:33,626 root => The table of Heroes is successfully created
+2022-03-30 17:20:33,627 root => The table of Stories is successfully created
+2022-03-30 17:20:33,715 root => Oh no! The Night King erased the history of this world!
+2022-03-30 17:20:33,946 root => Tyrion was successfully added to the Heroes table
+2022-03-30 17:20:33,951 root => Jaime was successfully added to the Heroes table
+2022-03-30 17:20:33,956 root => The Hound was successfully added to the Heroes table
+2022-03-30 17:20:33,968 root => Arya was successfully added to the Heroes table
+2022-03-30 17:20:33,973 root => Bran was successfully added to the Heroes table
+2022-03-30 17:20:33,978 root => Hodor was successfully added to the Heroes table
+2022-03-30 17:20:34,011 root => The hero with id 1 now can shout 'Hear me roar'
+2022-03-30 17:20:34,029 root => The hero with id 1 now can shout 'Lannisters always pay their debts'
+2022-03-30 17:20:34,041 root => The hero with id 2 now can shout 'The things we do for love'
+2022-03-30 17:20:34,055 root => The hero with id 3 now can shout 'Sing for me, bird'
+2022-03-30 17:20:34,064 root => The hero with id 4 now can shout 'Stick Them With The Pointy End'
+2022-03-30 17:20:34,080 root => The hero with id 4 now can shout 'A girl has no name'
+2022-03-30 17:20:34,097 root => The hero with id 4 now can shout 'A girl is Arya Stark of Winterfell, and I'm going home'
+2022-03-30 17:20:34,110 root => The hero with id 5 now can shout 'Fly!'
+2022-03-30 17:20:34,122 root => The hero with id 5 now can shout 'I'm the memory of this world'
+2022-03-30 17:20:34,143 root => The hero with id 6 now can shout 'Hodor!'
+2022-03-30 17:20:34,158 root => The hero with id 6 now can shout 'Hodor!Hodor!Hodor!Hodor!Hodor!'
+2022-03-30 17:20:34,172 root => The hero with id 6 now can shout 'HOLD THE DOOR!'
+2022-03-30 17:20:34,187 root => The history of hero with id 1 is:
+The youngest child of Lord Tywin Lannister. As Tyrion 
+is born a dwarf and his mother died during childbirth, he is resented by Tywin 
+since birth. Tyrion uses his status as a Lannister partly to mitigate the prejudice 
+he has received all of his life, especially from Tywin and his sister, Cersei 
+Lannister. He soothes his inadequacies with wine, wit and self-indulgence
+2022-03-30 17:20:34,193 root => The history of hero with id 2 is:
+Sör Jaime Lannister, Lord Tywin Lannister'ın büyük oğlu,  
+Kraliçe Cersei Lannister'ın ikiz kardeşi ve Tyrion Lannister'ın ağabeyiydi. 
+Cersei ile ensest bir ilişkiye dahil oldu ve çoğu kişi tarafından bilinmeyen, 
+üç çocuğunun, Joffrey, Myrcella Tommen ve doğmamış çocuğunun biyolojik babasıydı.
+2022-03-30 17:20:34,199 root => The history of hero with id 3 is:
+Sandor Clegane, popularly known as the Hound, is a skilled warrior 
+and the personal bodyguard of Prince Joffrey Baratheon. He is known primarily for 
+the horrible facial scarring he bears on the right side of his face and for his 
+fierce demeanor and lack of chivalry. Sandor is the younger brother of Ser Gregor 
+Clegane, nicknamed "the Mountain", a monstrously huge knight and arguably the most 
+feared man in Westeros.
+2022-03-30 17:20:34,212 root => The history of hero with id 4 is:
+Arya Stark is the youngest daughter and third child of Lady Catelyn 
+and Lord Ned Stark. Arya was born and raised at Winterfell. She has an older sister, 
+Sansa, an older brother Robb, two younger brothers Bran and Rickon Stark, and a 
+"bastard half-brother" Jon Snow. Arya rejects the notion that she must become a lady 
+and marry for influence and power. Instead, she believes that she can forge her own 
+destiny. She is fascinated by warfare and training in the use of arms, and is bored 
+by embroidery and other "lady-like" pursuits. She takes after her father and has a 
+quarrelsome relationship with her sister Sansa, due to their contrasting interests 
+and personalities. She is close to her "half-brother" Jon, who is also something 
+of an outsider.
+2022-03-30 17:20:34,220 root => The history of hero with id 5 is:
+Bran is the fourth child and second son of Lady Catelyn and 
+Lord Ned Stark. He was born and raised at Winterfell. Bran was named for Ned's elder 
+brother, Brandon, who was brutally executed by the Mad King along with Bran's paternal 
+grandfather Rickard Stark. He is only called "Brandon" by his mother when he has done 
+something wrong. Bran dreams of being a knight of the Kingsguard, and his favorite hobby 
+is climbing the walls of Winterfell, using its old rooftops and passageways to get around.
+2022-03-30 17:20:34,228 root => The history of hero with id 6 is:
+Hodor, originally named Wylis, is a simpleminded servant of House Stark 
+at Winterfell working in the stables. He is only capable of saying one word, "hodor", 
+though he can apparently understand complex instructions other people give him. "Hodor" 
+is a seemingly nonsense word, though in the process it became the name everyone calls him.
+Hodor is incredibly large and strong. While he is slow of wits, he is gentle and loyal to 
+the Starks. He is actually Old Nan's great-grandson and only known relative.
+2022-03-30 17:20:34,252 combat chronicler => The hero with id 2 attacked the hero with id 6. Result: 2
+2022-03-30 17:20:34,348 combat chronicler => The hero with id 1 attacked the hero with id 4. Result: 1
+2022-03-30 17:20:34,414 root => Tyrion was successfully deleted from the Heroes, Mottoes and Stories tables
+2022-03-30 17:21:06,297 root => The table of Mottoes is successfully created
+2022-03-30 17:21:06,300 root => The table of Combats is successfully created
+2022-03-30 17:21:06,302 root => The table of Heroes is successfully created
+2022-03-30 17:21:06,304 root => The table of Stories is successfully created
+2022-03-30 17:21:24,451 Sam Tarly => Adding the hero Oksana of Starks side. Born 26.7.1986 after Aegon's Conquest.
+2022-03-30 17:21:24,492 root => Oksana was successfully added to the Heroes table
+2022-03-30 17:21:33,489 root => The table of Mottoes is successfully created
+2022-03-30 17:21:33,493 root => The table of Combats is successfully created
+2022-03-30 17:21:33,495 root => The table of Heroes is successfully created
+2022-03-30 17:21:33,496 root => The table of Stories is successfully created
+2022-03-30 17:21:44,996 Sam Tarly => Adding a new motto for the hero with id 7.
+2022-03-30 17:21:45,058 root => The hero with id 7 now can shout 'Yay!'
+2022-03-30 17:21:51,446 root => The table of Mottoes is successfully created
+2022-03-30 17:21:51,449 root => The table of Combats is successfully created
+2022-03-30 17:21:51,451 root => The table of Heroes is successfully created
+2022-03-30 17:21:51,453 root => The table of Stories is successfully created
+2022-03-30 17:22:02,380 Sam Tarly => Adding the story of the hero with id 7.
+2022-03-30 17:22:02,429 root => The history of hero with id 7 is:
+The story of docker and PAIN!
+2022-03-30 17:22:15,135 root => The table of Mottoes is successfully created
+2022-03-30 17:22:15,138 root => The table of Combats is successfully created
+2022-03-30 17:22:15,140 root => The table of Heroes is successfully created
+2022-03-30 17:22:15,142 root => The table of Stories is successfully created
+2022-03-30 17:22:15,144 Sam Tarly => Adding a new combat of 2 heroes from opposing sides.
+2022-03-30 17:22:15,200 combat chronicler => The hero with id 3 attacked the hero with id 7. Result: 1
+2022-03-30 17:22:22,711 root => The table of Mottoes is successfully created
+2022-03-30 17:22:22,715 root => The table of Combats is successfully created
+2022-03-30 17:22:22,716 root => The table of Heroes is successfully created
+2022-03-30 17:22:22,718 root => The table of Stories is successfully created
+2022-03-30 17:22:30,773 Sam Tarly => Deleting Bran.
+2022-03-30 17:22:30,838 root => Bran was successfully deleted from the Heroes, Mottoes and Stories tables
+2022-03-30 17:22:38,653 root => The table of Mottoes is successfully created
+2022-03-30 17:22:38,656 root => The table of Combats is successfully created
+2022-03-30 17:22:38,658 root => The table of Heroes is successfully created
+2022-03-30 17:22:38,660 root => The table of Stories is successfully created
+2022-03-30 17:58:27,484 root => The table of Mottoes is successfully created
+2022-03-30 17:58:27,494 root => The table of Combats is successfully created
+2022-03-30 17:58:27,497 root => The table of Heroes is successfully created
+2022-03-30 17:58:27,499 root => The table of Stories is successfully created
+2022-03-30 18:00:36,475 root => The table of Mottoes is successfully created
+2022-03-30 18:00:36,478 root => The table of Combats is successfully created
+2022-03-30 18:00:36,480 root => The table of Heroes is successfully created
+2022-03-30 18:00:36,482 root => The table of Stories is successfully created
+2022-03-30 18:01:06,029 root => The table of Mottoes is successfully created
+2022-03-30 18:01:06,033 root => The table of Combats is successfully created
+2022-03-30 18:01:06,034 root => The table of Heroes is successfully created
+2022-03-30 18:01:06,036 root => The table of Stories is successfully created
+2022-03-30 18:07:33,808 root => The table of Mottoes is successfully created
+2022-03-30 18:07:33,812 root => The table of Combats is successfully created
+2022-03-30 18:07:33,814 root => The table of Heroes is successfully created
+2022-03-30 18:07:33,816 root => The table of Stories is successfully created
+2022-03-30 18:07:57,988 root => The table of Mottoes is successfully created
+2022-03-30 18:07:57,991 root => The table of Combats is successfully created
+2022-03-30 18:07:57,993 root => The table of Heroes is successfully created
+2022-03-30 18:07:57,995 root => The table of Stories is successfully created
+2022-03-30 18:07:58,012 root => Oh no! The Night King erased the history of this world!
+2022-03-30 18:07:58,229 root => Tyrion was successfully added to the Heroes table
+2022-03-30 18:07:58,239 root => Jaime was successfully added to the Heroes table
+2022-03-30 18:07:58,244 root => The Hound was successfully added to the Heroes table
+2022-03-30 18:07:58,255 root => Arya was successfully added to the Heroes table
+2022-03-30 18:07:58,266 root => Bran was successfully added to the Heroes table
+2022-03-30 18:07:58,272 root => Hodor was successfully added to the Heroes table
+2022-03-30 18:07:58,298 root => The hero with id 1 now can shout 'Hear me roar'
+2022-03-30 18:07:58,316 root => The hero with id 1 now can shout 'Lannisters always pay their debts'
+2022-03-30 18:07:58,336 root => The hero with id 2 now can shout 'The things we do for love'
+2022-03-30 18:07:58,349 root => The hero with id 3 now can shout 'Sing for me, bird'
+2022-03-30 18:07:58,364 root => The hero with id 4 now can shout 'Stick Them With The Pointy End'
+2022-03-30 18:07:58,384 root => The hero with id 4 now can shout 'A girl has no name'
+2022-03-30 18:07:58,404 root => The hero with id 4 now can shout 'A girl is Arya Stark of Winterfell, and I'm going home'
+2022-03-30 18:07:58,426 root => The hero with id 5 now can shout 'Fly!'
+2022-03-30 18:07:58,440 root => The hero with id 5 now can shout 'I'm the memory of this world'
+2022-03-30 18:07:58,474 root => The hero with id 6 now can shout 'Hodor!'
+2022-03-30 18:07:58,515 root => The hero with id 6 now can shout 'Hodor!Hodor!Hodor!Hodor!Hodor!'
+2022-03-30 18:07:58,550 root => The hero with id 6 now can shout 'HOLD THE DOOR!'
+2022-03-30 18:07:58,576 root => The history of hero with id 1 is:
+The youngest child of Lord Tywin Lannister. As Tyrion 
+is born a dwarf and his mother died during childbirth, he is resented by Tywin 
+since birth. Tyrion uses his status as a Lannister partly to mitigate the prejudice 
+he has received all of his life, especially from Tywin and his sister, Cersei 
+Lannister. He soothes his inadequacies with wine, wit and self-indulgence
+2022-03-30 18:07:58,588 root => The history of hero with id 2 is:
+Sör Jaime Lannister, Lord Tywin Lannister'ın büyük oğlu,  
+Kraliçe Cersei Lannister'ın ikiz kardeşi ve Tyrion Lannister'ın ağabeyiydi. 
+Cersei ile ensest bir ilişkiye dahil oldu ve çoğu kişi tarafından bilinmeyen, 
+üç çocuğunun, Joffrey, Myrcella Tommen ve doğmamış çocuğunun biyolojik babasıydı.
+2022-03-30 18:07:58,596 root => The history of hero with id 3 is:
+Sandor Clegane, popularly known as the Hound, is a skilled warrior 
+and the personal bodyguard of Prince Joffrey Baratheon. He is known primarily for 
+the horrible facial scarring he bears on the right side of his face and for his 
+fierce demeanor and lack of chivalry. Sandor is the younger brother of Ser Gregor 
+Clegane, nicknamed "the Mountain", a monstrously huge knight and arguably the most 
+feared man in Westeros.
+2022-03-30 18:07:58,609 root => The history of hero with id 4 is:
+Arya Stark is the youngest daughter and third child of Lady Catelyn 
+and Lord Ned Stark. Arya was born and raised at Winterfell. She has an older sister, 
+Sansa, an older brother Robb, two younger brothers Bran and Rickon Stark, and a 
+"bastard half-brother" Jon Snow. Arya rejects the notion that she must become a lady 
+and marry for influence and power. Instead, she believes that she can forge her own 
+destiny. She is fascinated by warfare and training in the use of arms, and is bored 
+by embroidery and other "lady-like" pursuits. She takes after her father and has a 
+quarrelsome relationship with her sister Sansa, due to their contrasting interests 
+and personalities. She is close to her "half-brother" Jon, who is also something 
+of an outsider.
+2022-03-30 18:07:58,621 root => The history of hero with id 5 is:
+Bran is the fourth child and second son of Lady Catelyn and 
+Lord Ned Stark. He was born and raised at Winterfell. Bran was named for Ned's elder 
+brother, Brandon, who was brutally executed by the Mad King along with Bran's paternal 
+grandfather Rickard Stark. He is only called "Brandon" by his mother when he has done 
+something wrong. Bran dreams of being a knight of the Kingsguard, and his favorite hobby 
+is climbing the walls of Winterfell, using its old rooftops and passageways to get around.
+2022-03-30 18:07:58,634 root => The history of hero with id 6 is:
+Hodor, originally named Wylis, is a simpleminded servant of House Stark 
+at Winterfell working in the stables. He is only capable of saying one word, "hodor", 
+though he can apparently understand complex instructions other people give him. "Hodor" 
+is a seemingly nonsense word, though in the process it became the name everyone calls him.
+Hodor is incredibly large and strong. While he is slow of wits, he is gentle and loyal to 
+the Starks. He is actually Old Nan's great-grandson and only known relative.
+2022-03-30 18:07:58,661 combat chronicler => The hero with id 3 attacked the hero with id 6. Result: 1
+2022-03-30 18:07:58,720 combat chronicler => The hero with id 2 attacked the hero with id 6. Result: 2
+2022-03-30 18:07:58,742 combat chronicler => The hero with id 3 attacked the hero with id 5. Result: 2
+2022-03-30 18:07:58,791 combat chronicler => The hero with id 2 attacked the hero with id 5. Result: 1
+2022-03-30 18:07:58,822 combat chronicler => The hero with id 2 attacked the hero with id 4. Result: 1
+2022-03-30 18:07:58,854 root => Tyrion was successfully deleted from the Heroes, Mottoes and Stories tables
+2022-03-30 18:08:05,293 root => The table of Mottoes is successfully created
+2022-03-30 18:08:05,296 root => The table of Combats is successfully created
+2022-03-30 18:08:05,298 root => The table of Heroes is successfully created
+2022-03-30 18:08:05,300 root => The table of Stories is successfully created
+2022-03-30 18:10:40,028 root => The table of Mottoes is successfully created
+2022-03-30 18:10:40,034 root => The table of Combats is successfully created
+2022-03-30 18:10:40,036 root => The table of Heroes is successfully created
+2022-03-30 18:10:40,038 root => The table of Stories is successfully created
+2022-03-30 18:11:07,343 root => The table of Mottoes is successfully created
+2022-03-30 18:11:07,346 root => The table of Combats is successfully created
+2022-03-30 18:11:07,348 root => The table of Heroes is successfully created
+2022-03-30 18:11:07,350 root => The table of Stories is successfully created
+2022-03-30 18:12:58,488 root => The table of Mottoes is successfully created
+2022-03-30 18:12:58,491 root => The table of Combats is successfully created
+2022-03-30 18:12:58,493 root => The table of Heroes is successfully created
+2022-03-30 18:12:58,495 root => The table of Stories is successfully created
+2022-03-30 18:13:24,121 root => The table of Mottoes is successfully created
+2022-03-30 18:13:24,125 root => The table of Combats is successfully created
+2022-03-30 18:13:24,126 root => The table of Heroes is successfully created
+2022-03-30 18:13:24,128 root => The table of Stories is successfully created
+2022-03-30 18:16:53,693 root => The table of Mottoes is successfully created
+2022-03-30 18:16:53,697 root => The table of Combats is successfully created
+2022-03-30 18:16:53,699 root => The table of Heroes is successfully created
+2022-03-30 18:16:53,700 root => The table of Stories is successfully created
+2022-03-30 18:17:39,923 root => The table of Mottoes is successfully created
+2022-03-30 18:17:39,926 root => The table of Combats is successfully created
+2022-03-30 18:17:39,928 root => The table of Heroes is successfully created
+2022-03-30 18:17:39,930 root => The table of Stories is successfully created
+2022-03-30 18:22:29,888 root => The table of Mottoes is successfully created
+2022-03-30 18:22:29,891 root => The table of Combats is successfully created
+2022-03-30 18:22:29,893 root => The table of Heroes is successfully created
+2022-03-30 18:22:29,895 root => The table of Stories is successfully created
+2022-03-30 18:23:10,877 root => The table of Mottoes is successfully created
+2022-03-30 18:23:10,880 root => The table of Combats is successfully created
+2022-03-30 18:23:10,882 root => The table of Heroes is successfully created
+2022-03-30 18:23:10,883 root => The table of Stories is successfully created
+2022-03-30 19:01:45,411 root => The table of Mottoes is successfully created
+2022-03-30 19:01:45,420 root => The table of Combats is successfully created
+2022-03-30 19:01:45,422 root => The table of Heroes is successfully created
+2022-03-30 19:01:45,424 root => The table of Stories is successfully created
+2022-03-30 19:02:03,259 root => The table of Mottoes is successfully created
+2022-03-30 19:02:03,262 root => The table of Combats is successfully created
+2022-03-30 19:02:03,264 root => The table of Heroes is successfully created
+2022-03-30 19:02:03,266 root => The table of Stories is successfully created
+2022-03-30 19:02:03,281 root => Oh no! The Night King erased the history of this world!
+2022-03-30 19:02:03,497 root => Tyrion was successfully added to the Heroes table
+2022-03-30 19:02:03,507 root => Jaime was successfully added to the Heroes table
+2022-03-30 19:02:03,517 root => The Hound was successfully added to the Heroes table
+2022-03-30 19:02:03,523 root => Arya was successfully added to the Heroes table
+2022-03-30 19:02:03,534 root => Bran was successfully added to the Heroes table
+2022-03-30 19:02:03,545 root => Hodor was successfully added to the Heroes table
+2022-03-30 19:02:03,574 root => The hero with id 1 now can shout 'Hear me roar'
+2022-03-30 19:02:03,594 root => The hero with id 1 now can shout 'Lannisters always pay their debts'
+2022-03-30 19:02:03,621 root => The hero with id 2 now can shout 'The things we do for love'
+2022-03-30 19:02:03,630 root => The hero with id 3 now can shout 'Sing for me, bird'
+2022-03-30 19:02:03,643 root => The hero with id 4 now can shout 'Stick Them With The Pointy End'
+2022-03-30 19:02:03,665 root => The hero with id 4 now can shout 'A girl has no name'
+2022-03-30 19:02:03,677 root => The hero with id 4 now can shout 'A girl is Arya Stark of Winterfell, and I'm going home'
+2022-03-30 19:02:03,695 root => The hero with id 5 now can shout 'Fly!'
+2022-03-30 19:02:03,715 root => The hero with id 5 now can shout 'I'm the memory of this world'
+2022-03-30 19:02:03,730 root => The hero with id 6 now can shout 'Hodor!'
+2022-03-30 19:02:03,748 root => The hero with id 6 now can shout 'Hodor!Hodor!Hodor!Hodor!Hodor!'
+2022-03-30 19:02:03,776 root => The hero with id 6 now can shout 'HOLD THE DOOR!'
+2022-03-30 19:02:03,788 root => The history of hero with id 1 is:
+The youngest child of Lord Tywin Lannister. As Tyrion 
+is born a dwarf and his mother died during childbirth, he is resented by Tywin 
+since birth. Tyrion uses his status as a Lannister partly to mitigate the prejudice 
+he has received all of his life, especially from Tywin and his sister, Cersei 
+Lannister. He soothes his inadequacies with wine, wit and self-indulgence
+2022-03-30 19:02:03,803 root => The history of hero with id 2 is:
+Sör Jaime Lannister, Lord Tywin Lannister'ın büyük oğlu,  
+Kraliçe Cersei Lannister'ın ikiz kardeşi ve Tyrion Lannister'ın ağabeyiydi. 
+Cersei ile ensest bir ilişkiye dahil oldu ve çoğu kişi tarafından bilinmeyen, 
+üç çocuğunun, Joffrey, Myrcella Tommen ve doğmamış çocuğunun biyolojik babasıydı.
+2022-03-30 19:02:03,810 root => The history of hero with id 3 is:
+Sandor Clegane, popularly known as the Hound, is a skilled warrior 
+and the personal bodyguard of Prince Joffrey Baratheon. He is known primarily for 
+the horrible facial scarring he bears on the right side of his face and for his 
+fierce demeanor and lack of chivalry. Sandor is the younger brother of Ser Gregor 
+Clegane, nicknamed "the Mountain", a monstrously huge knight and arguably the most 
+feared man in Westeros.
+2022-03-30 19:02:03,822 root => The history of hero with id 4 is:
+Arya Stark is the youngest daughter and third child of Lady Catelyn 
+and Lord Ned Stark. Arya was born and raised at Winterfell. She has an older sister, 
+Sansa, an older brother Robb, two younger brothers Bran and Rickon Stark, and a 
+"bastard half-brother" Jon Snow. Arya rejects the notion that she must become a lady 
+and marry for influence and power. Instead, she believes that she can forge her own 
+destiny. She is fascinated by warfare and training in the use of arms, and is bored 
+by embroidery and other "lady-like" pursuits. She takes after her father and has a 
+quarrelsome relationship with her sister Sansa, due to their contrasting interests 
+and personalities. She is close to her "half-brother" Jon, who is also something 
+of an outsider.
+2022-03-30 19:02:03,834 root => The history of hero with id 5 is:
+Bran is the fourth child and second son of Lady Catelyn and 
+Lord Ned Stark. He was born and raised at Winterfell. Bran was named for Ned's elder 
+brother, Brandon, who was brutally executed by the Mad King along with Bran's paternal 
+grandfather Rickard Stark. He is only called "Brandon" by his mother when he has done 
+something wrong. Bran dreams of being a knight of the Kingsguard, and his favorite hobby 
+is climbing the walls of Winterfell, using its old rooftops and passageways to get around.
+2022-03-30 19:02:03,844 root => The history of hero with id 6 is:
+Hodor, originally named Wylis, is a simpleminded servant of House Stark 
+at Winterfell working in the stables. He is only capable of saying one word, "hodor", 
+though he can apparently understand complex instructions other people give him. "Hodor" 
+is a seemingly nonsense word, though in the process it became the name everyone calls him.
+Hodor is incredibly large and strong. While he is slow of wits, he is gentle and loyal to 
+the Starks. He is actually Old Nan's great-grandson and only known relative.
+2022-03-30 19:02:03,900 combat chronicler => The hero with id 1 attacked the hero with id 6. Result: 2
+2022-03-30 19:02:04,068 combat chronicler => The hero with id 2 attacked the hero with id 4. Result: 1
+2022-03-30 19:02:04,115 combat chronicler => The hero with id 2 attacked the hero with id 6. Result: 1
+2022-03-30 19:02:04,168 root => Tyrion was successfully deleted from the Heroes, Mottoes and Stories tables
+2022-03-30 19:06:10,743 root => The table of Mottoes is successfully created
+2022-03-30 19:06:10,746 root => The table of Combats is successfully created
+2022-03-30 19:06:10,749 root => The table of Heroes is successfully created
+2022-03-30 19:06:10,750 root => The table of Stories is successfully created
+2022-03-30 19:08:08,782 root => The table of Mottoes is successfully created
+2022-03-30 19:08:08,786 root => The table of Combats is successfully created
+2022-03-30 19:08:08,788 root => The table of Heroes is successfully created
+2022-03-30 19:08:08,789 root => The table of Stories is successfully created
+2022-03-30 19:11:26,993 root => The table of Mottoes is successfully created
+2022-03-30 19:11:26,996 root => The table of Combats is successfully created
+2022-03-30 19:11:26,998 root => The table of Heroes is successfully created
+2022-03-30 19:11:27,000 root => The table of Stories is successfully created
+2022-03-30 19:11:49,765 root => The table of Mottoes is successfully created
+2022-03-30 19:11:49,769 root => The table of Combats is successfully created
+2022-03-30 19:11:49,771 root => The table of Heroes is successfully created
+2022-03-30 19:11:49,772 root => The table of Stories is successfully created
+2022-03-30 19:12:02,099 Sam Tarly => Adding the hero Oksana of Starks side. Born 12.8.1926 after Aegon's Conquest.
+2022-03-30 19:12:02,146 root => Oksana was successfully added to the Heroes table
+2022-03-30 19:13:09,550 root => The table of Mottoes is successfully created
+2022-03-30 19:13:09,553 root => The table of Combats is successfully created
+2022-03-30 19:13:09,555 root => The table of Heroes is successfully created
+2022-03-30 19:13:09,557 root => The table of Stories is successfully created
