@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 echo "Initializing project..."
 
 echo "Waiting for postgres..."

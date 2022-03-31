@@ -1,9 +1,10 @@
 # The_Song_of_Images_and_Volumes
 A homework for Quantori Data Engineering School 2022 on SQLAlchemy + Docker + Logging
 It contains a tiny demo database of the gorgeous universe of "A Song of Ice and Fire" by George R.R. Martin.
+
+Tested on Linux Mint 20 Cinnamon
 ### current state
-Semi-working: 
-- entrypoint.sh doesn't seem to work: the db on dev mode is not erased and recreated
+Semi-working:
 - for me it was impossible to create dev- and prod-containers both on one system without deleting the other one first. Each one works perfectly though.
 ### todo
 - survive the coming winter a.k.a. "the test" =)
